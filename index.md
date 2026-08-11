@@ -36,7 +36,3 @@ Wenn Sie Appartements oder Zimmer vermieten und wissen wollen, ob das für Sie p
 [arash@kadkhodaei.de](mailto:arash@kadkhodaei.de)
 
 A4F-Tech, Freiburg im Breisgau
-
----
-
-[Impressum](/impressum/) · [Datenschutz](/datenschutz/)

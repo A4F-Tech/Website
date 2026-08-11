@@ -42,7 +42,3 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 ## Hinweis nach § 36 VSBG
 
 Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
-
----
-
-[Zurück zur Startseite](/) · [Datenschutz](/datenschutz/)

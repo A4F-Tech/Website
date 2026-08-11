@@ -48,7 +48,3 @@ Wenden Sie sich dafür an die oben genannte E-Mail-Adresse.
 ## Beschwerderecht
 
 Sie können sich bei einer Datenschutz-Aufsichtsbehörde beschweren. Zuständig ist der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg.
-
----
-
-[Zurück zur Startseite](/) · [Impressum](/impressum/)

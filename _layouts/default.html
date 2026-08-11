@@ -23,7 +23,7 @@
 
       <footer class="site-footer">
         <span class="site-footer-owner">
-          <a href="{{ '/impressum/' | relative_url }}">Impressum</a> ·
+          {% if page.url != '/' %}<a href="{{ '/' | relative_url }}">Startseite</a> · {% endif %}<a href="{{ '/impressum/' | relative_url }}">Impressum</a> ·
           <a href="{{ '/datenschutz/' | relative_url }}">Datenschutz</a>
         </span>
       </footer>
