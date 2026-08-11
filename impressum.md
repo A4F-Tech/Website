@@ -45,4 +45,4 @@ Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor e
 
 ---
 
-[Zurück zur Startseite](/)
+[Zurück zur Startseite](/) · [Datenschutz](/datenschutz/)

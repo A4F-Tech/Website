@@ -36,4 +36,4 @@ A4F-Tech, Freiburg im Breisgau
 
 ---
 
-[Impressum](/impressum/)
+[Impressum](/impressum/) · [Datenschutz](/datenschutz/)
