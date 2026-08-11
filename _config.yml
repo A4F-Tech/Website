@@ -1,5 +1,5 @@
-title: A4F
-description: Automation for Future
+title: A4F-Tech
+description: Zeitlich begrenzter Gerätezugang für Appartements und Hotels
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
