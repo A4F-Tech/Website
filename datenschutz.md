@@ -21,7 +21,9 @@ Beim Aufruf der Seite übermittelt Ihr Browser technisch notwendige Daten an Git
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt im sicheren und zuverlässigen Betrieb dieser Website.
 
-Dabei können Daten in die USA übermittelt werden. Wir haben keinen Einfluss auf Art und Umfang der Verarbeitung durch GitHub. Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub unter [docs.github.com](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+Wir selbst haben keinen Zugriff auf diese Serverprotokolle und speichern sie nicht. Wie lange GitHub sie vorhält, liegt außerhalb unseres Einflussbereichs.
+
+Dabei können Daten in die USA übermittelt werden. Grundlage der Übermittlung ist der Angemessenheitsbeschluss der EU-Kommission zum EU-US Data Privacy Framework (Art. 45 DSGVO), unter dem Microsoft als Muttergesellschaft von GitHub zertifiziert ist. Wir haben keinen Einfluss auf Art und Umfang der Verarbeitung durch GitHub. Weitere Informationen finden Sie in der Datenschutzerklärung von GitHub unter [docs.github.com](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 ## Keine Cookies, kein Tracking
 
