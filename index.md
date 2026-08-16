@@ -1,9 +1,9 @@
 ---
 title: Gästezugang für Zimmertechnik, zeitlich begrenzt
-description: SOAC von A4F-Tech, Freiburg. Zeitlich begrenzter Gerätezugang für Appartements, Aparthotels und Hotels.
+description: Zeitlich begrenzter Gerätezugang für Appartements, Aparthotels und Hotels, aus Freiburg im Breisgau.
 ---
 
-**SOAC** gibt Ihren Gästen die Kontrolle über Licht, Heizung und Geräte in ihrer Wohnung. Der Zugang gilt genau für die Dauer des Aufenthalts und wird beim Check-out automatisch wieder entzogen.
+Unser System gibt Ihren Gästen die Kontrolle über Licht, Heizung und Geräte in ihrer Wohnung. Der Zugang gilt genau für die Dauer des Aufenthalts und wird beim Check-out automatisch wieder entzogen.
 
 ## Das Problem
 
@@ -15,11 +15,11 @@ Die Folgen kennen Betreiber: leerstehende Wohnungen werden weiter geheizt, und e
 
 **Zugang mit Ablaufdatum.** Jeder Zugang hängt an einer Reservierung: Raum, Geräte und Zeitraum sind festgelegt. Nach dem Check-out endet er von selbst, ohne dass jemand daran denken muss.
 
-**Läuft im Haus.** Ein kleiner Rechner vor Ort setzt die Regeln durch und steuert die Geräte. Er arbeitet auch weiter, wenn die Internetverbindung ausfällt.
+**Läuft im Haus.** Ein kleiner Rechner vor Ort setzt die Regeln durch und steuert die Geräte direkt im Haus, ohne Umweg über die Gerätehersteller.
 
 **Nachvollziehbar.** Jede Schaltung wird protokolliert. Sie sehen, wer wann was bedient hat.
 
-**Mit vorhandenen Geräten.** SOAC steuert Ihre bestehende Technik über Home Assistant. Kein Austausch der Zimmerausstattung nötig.
+**Mit vorhandenen Geräten.** Wir steuern Ihre bestehende Technik über Home Assistant. Geräte, die dort bereits eingebunden sind, müssen Sie nicht ersetzen.
 
 ## Für wen
 
